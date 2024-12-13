@@ -111,5 +111,5 @@ Id keresés alapon bekérjük az id-t és kiírjuk a talált Termék adatait, am
 Id alapon törölhetjük egy termék teljes adatsorát.
 
 Részösszeg: `16p`
-##Összesen 57p
+## Összesen 57p
 
